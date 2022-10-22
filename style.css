@@ -1,0 +1,30 @@
+#heading_div
+{
+    width: 100%;
+    margin-top: 0px;
+}
+#text_input1{
+    width: 600px;
+    border-radius: 4px;
+}
+#start_button
+{
+    font-size: 18px;
+}
+#status{
+    font-size: 18px;
+}
+#final_results{
+    font: 18px;
+}
+canvas{
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 200px;
+}
+body{
+    background-image: url("object background.webp");
+    background-size: cover;
+}
